@@ -8,13 +8,6 @@ body, html {
     font-family: headliner;
     src: url(headliner.ttf);
 }
-h3{
-    text-align: center;
-    margin-right: 420px;
-}
-h2{
-    text-align: center;
-}
 
 .header {
     padding: 10px;
